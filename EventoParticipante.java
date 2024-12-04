@@ -5,11 +5,11 @@ public class EventoParticipante {
 
 public EventoParticipante(
 
-    int idEvento,
+    int idEventoP,
     int idParticipante
 
     ){
-        this.idEvento = idEvento;
+        this.idEventoP = idEventoP;
         this.idParticipante = idParticipante;
 
     }
